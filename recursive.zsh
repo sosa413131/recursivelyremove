@@ -23,9 +23,9 @@ done < $filename
 # STEP 5
 # At the end of navigate to the corresponding curriculum repo move the paths.txt file here then run the following
 
-classrepo=RU-JER-DATA-PT-01-2020
+classrepo=RUT-JER-DATA-PT-07-2020-U-C
 filename='paths.txt'
-lesson='01-Lesson-Plans/18-R/1/'
+lesson='01-Lesson-Plans/10-Advanced-Data-Storage-and-Retrieval/1/'
 n=1
 while read line; do
 # reading each line
